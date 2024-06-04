@@ -92,7 +92,7 @@ const content = [
         </p>
       </>
     ),
-    badge: "Why I build this",
+    badge: "Why I built this",
   },
   {
     title: "A wild dev just appeared",
@@ -153,6 +153,11 @@ const content = [
           That&apos;s why I learn new stuff to broaden my perspective. I&apos;ve
           tried elixir and rust and learing front end stuff more seriously just
           recently.
+        </p>
+        <p>
+          I've written some open source project available at{" "}
+          <a href="https://github.com/Hasnayeen">github</a>. Please do check out
+          if you can.
         </p>
       </>
     ),
