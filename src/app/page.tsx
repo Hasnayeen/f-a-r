@@ -5,7 +5,7 @@ import { TracingBeam } from "../components/ui/tracing-beam";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between">
-      <Lamp>Just Text</Lamp>
+      <Lamp />
       <TracingBeam className="px-6">
         <div className="max-w-2xl mx-auto antialiased pt-4 relative px-4 md:px-0">
           {content.map((item, index) => (
@@ -30,6 +30,8 @@ export default function Home() {
               <a href="https://github.com/Hasnayeen/">Github</a>
               <span>|</span>
               <a href="https://x.com/nhasnayeen">𝕏</a>
+              <span>|</span>
+              <a href="mailto:searching.nehal@gmail.com">Email</a>
             </div>
           </div>
         </div>
