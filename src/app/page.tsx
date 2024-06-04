@@ -137,6 +137,11 @@ const content = [
           environment didn&apos;t suit me so after one and half year I decided
           to move on and worked only in remote jobs ever since.
         </p>
+        <p>
+          I&apos;ve written some open source project available at{" "}
+          <a href="https://github.com/Hasnayeen">github</a>. Please do check out
+          if you can.
+        </p>
       </>
     ),
     badge: "My developer journey",
@@ -153,11 +158,6 @@ const content = [
           That&apos;s why I learn new stuff to broaden my perspective. I&apos;ve
           tried elixir and rust and learing front end stuff more seriously just
           recently.
-        </p>
-        <p>
-          I&apos;ve written some open source project available at{" "}
-          <a href="https://github.com/Hasnayeen">github</a>. Please do check out
-          if you can.
         </p>
       </>
     ),
