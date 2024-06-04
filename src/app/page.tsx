@@ -155,7 +155,7 @@ const content = [
           recently.
         </p>
         <p>
-          I've written some open source project available at{" "}
+          I&apos;ve written some open source project available at{" "}
           <a href="https://github.com/Hasnayeen">github</a>. Please do check out
           if you can.
         </p>
